@@ -957,7 +957,7 @@ Video Style
 */
 
 .video {
-  background-image: url(../images/video-bg.jpg);
+  background-image: url(../images/raisins_image01.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1221,7 +1221,7 @@ Contact Style
 */
 
 .contact {
-  background-image: url(../images/contact-bg.jpg);
+  background-image: url(../images/vecteezy_bowls-with-various-dried-fruits-and-nuts_2374169.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1325,11 +1325,6 @@ Contact Style
   font-weight: 500;
   transition: all .5s;
 }
-
-.contact-content #contact-form button:hover {
-  background-color: #f35525;
-}
-
 
 /* 
 ---------------------------------------------
